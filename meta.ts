@@ -24,7 +24,7 @@ export const vendors: Record<string, VendorSkillMeta> = {
     },
   },
   'vue-best-practices': {
-    source: 'https://github.com/hyf0/vue-skills',
+    source: 'https://github.com/vuejs-ai/skills',
     skills: {
       'vue-best-practices': 'vue-best-practices',
     },

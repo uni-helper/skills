@@ -38,7 +38,7 @@ pnpx skills add uni-helper/skills --all -g
 | 技能 | 描述 | 来源 |
 |-------|-------------|--------|
 | [vueuse-functions](skills/vueuse-functions) (官方) | VueUse - 200+ Vue 组合式工具函数 | [vueuse/skills](https://github.com/vueuse/skills) |
-| [vue-best-practices](skills/vue-best-practices) | Vue 3 + TypeScript 的 Volar 最佳实践 | [hyf0/vue-skills](https://github.com/hyf0/vue-skills) |
+| [vue-best-practices](skills/vue-best-practices) | Vue 3 + TypeScript 的 Volar 最佳实践 | [vuejs-ai/skills](https://github.com/vuejs-ai/skills) |
 | [web-design-guidelines](skills/web-design-guidelines) | 构建美观界面的 Web 设计指南 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | [unocss](skills/unocss) | UnoCSS - 原子化 CSS 引擎、预设、转换器 | [antfu/skills/unocss](https://github.com/antfu/skills) |
 | [vite](skills/vite) | Vite 构建工具 - 配置、插件、SSR、库模式 | [antfu/skills/vite](https://github.com/antfu/skills) |
