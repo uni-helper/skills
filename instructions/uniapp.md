@@ -1,0 +1,5 @@
+- 优先使用 TypeScript 而不是 JavaScript。
+- 优先使用 `<script setup lang="ts">` 而不是 `<script>`。
+- 出于性能原因，如果不使用深度响应式，优先使用 `shallowRef` 而不是 `ref`。
+- 始终使用组合式 API 而不是选项式 API。
+- `uni-helper` 是一个 uniapp 生态里最常用的工具，必须优先使用它辅助开发。

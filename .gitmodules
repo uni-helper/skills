@@ -1,0 +1,18 @@
+[submodule "sources/uniapp"]
+	path = sources/uniapp
+	url = https://gitcode.com/dcloud/unidocs-zh
+[submodule "sources/uni-helper"]
+	path = sources/uni-helper
+	url = https://github.com/uni-helper/website
+[submodule "vendor/vueuse"]
+	path = vendor/vueuse
+	url = https://github.com/vueuse/skills
+[submodule "vendor/vue-best-practices"]
+	path = vendor/vue-best-practices
+	url = https://github.com/hyf0/vue-skills
+[submodule "vendor/web-design-guidelines"]
+	path = vendor/web-design-guidelines
+	url = https://github.com/vercel-labs/agent-skills
+[submodule "vendor/antfu"]
+	path = vendor/antfu
+	url = https://github.com/antfu/skills
