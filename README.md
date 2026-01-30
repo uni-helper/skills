@@ -2,8 +2,6 @@
 
 > fork 自 [antfu Skills](https://github.com/antfu/skills)
 
-这是一个精心策划的 [Agent Skills](https://agentskills.io/home) 集合，反映了 [Anthony Fu](https://github.com/antfu) 的偏好、经验和最佳实践，以及工具的使用文档。
-
 > [!IMPORTANT]
 > 这是一个概念验证项目，用于从源文档生成 agent 技能并保持同步。
 > 我还没有充分测试这些技能在实际中的表现，因此非常欢迎反馈和贡献。
