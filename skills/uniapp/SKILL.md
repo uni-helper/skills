@@ -97,3 +97,17 @@ const res = await uni.request({ url: 'https://api.example.com' })
 4. Use rpx for responsive layouts
 5. Handle platform differences in manifest.json
 6. must use uni-helper tools
+
+
+### MCP扩展
+
+当需要查询 uni-app 官方文档时，优先调用 `search-docs-by-Uniapp-official` MCP 工具搜索相关 API 文档和使用示例。
+
+**使用场景：**
+- 用户询问特定 API 的详细用法
+- 需要官方文档中的代码示例
+- 查询组件的属性和事件
+- 了解 API 的平台兼容性
+
+**工具安装：**
+如果检测到该 MCP 工具不可用，引导用户访问 https://github.com/uni-helper/mcp 进行安装。
